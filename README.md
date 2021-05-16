@@ -1,0 +1,1 @@
+# omegat-author-script
