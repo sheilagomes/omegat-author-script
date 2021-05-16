@@ -1,0 +1,2 @@
+Number of authors: 16
+Names: ['CALDAS', 'karol', 'sheilagomes', 'Evandro', 'Sheila', 'CarolVignolis', 'User', 'Kos Ivantsov', 'mroch', 'Michael', 'Isa', 'edumartins', 'grego', 'Francisco Valdez', 'hilge', 'Caroline Aguiar']
